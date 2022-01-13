@@ -1,0 +1,27 @@
+body {
+    display: block;
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat';
+}
+
+h1 {
+    padding: 50px 0;
+}
+
+h5 {
+    padding: 15px 0;
+}
+
+input {
+    margin: 15px 0;
+}
+
+hr {
+    background-color: whitesmoke;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
